@@ -1,0 +1,3 @@
+"tweet_id","in_reply_to_status_id","in_reply_to_user_id","retweeted_status_id","retweeted_status_user_id","timestamp","source","text","expanded_urls"
+"19677649943","","","","","2010-07-27 18:39:26 +0000","web","ok! google app engine + django configured , now to learn how gae, django and python works?."
+"18841621364","","116224072","","","2010-07-18 14:04:48 +0000","web","@brenkapps hey checked out your game looks cool. check out mine http://bit.ly/callbreak"
